@@ -6,3 +6,4 @@ TODO:
   <br>-Prevent shellcode
   <br>-Prevent spyware
   <br>-Prevent cryptomalware
+  <br>-Fileless virus
