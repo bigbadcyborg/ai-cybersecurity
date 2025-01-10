@@ -8,6 +8,7 @@ TODO:
   <br>-Prevent cryptomalware
   <br>-Fileless virus
   <br>-Protect process images on persistent storage
+  <br>-Prevent script and macro viruses - the malware uses the programming features available in local scripting <br>engines for the OS and/or browser, such as PowerShell, Windows Management Instrumentation (WMI), JavaScript, <br>Microsoft Office documents with Visual Basic for Applications (VBA) code enabled, or PDF documents with <br>JavaScript enabled.
 
   <br><br>Basic Methods of Prevention:
   <br>-Latest version of browsers
