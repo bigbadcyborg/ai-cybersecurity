@@ -7,6 +7,7 @@ TODO:
   <br>-Prevent spyware
   <br>-Prevent cryptomalware
   <br>-Fileless virus
+  <br>-Protect process images on persistent storage
 
   <br><br>Basic Methods of Prevention:
   <br>-Latest version of browsers
@@ -16,3 +17,4 @@ TODO:
   <br>-Cookie Control
   <br>-Regular Scans
   <br>-Quarantine or delete software
+  <br>-Block ICMP pings
