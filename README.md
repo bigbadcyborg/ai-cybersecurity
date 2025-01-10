@@ -7,3 +7,8 @@ TODO:
   <br>-Prevent spyware
   <br>-Prevent cryptomalware
   <br>-Fileless virus
+
+  <br><br>Basic Methods of Prevention:
+  <br>-Latest version of browsers
+  <br>-Latest patches
+  <br>-Intricate Firewall
