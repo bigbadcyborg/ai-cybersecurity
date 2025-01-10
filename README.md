@@ -12,3 +12,7 @@ TODO:
   <br>-Latest version of browsers
   <br>-Latest patches
   <br>-Intricate Firewall
+  <br>-Pop-up blocker
+  <br>-Cookie Control
+  <br>-Regular Scans
+  <br>-Quarantine or delete software
