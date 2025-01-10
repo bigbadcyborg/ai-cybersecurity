@@ -1,3 +1,3 @@
 TODO:
   <br>-Utilize git diff
-  <br>-Cloned website detection/watering hole attack prevention (setoolkit)
+  <br>-Prevent Cloned websites with detection of watering hole/pharming attacks (setoolkit)
