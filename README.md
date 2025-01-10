@@ -5,3 +5,4 @@ TODO:
   <br>-Prevent covert channels
   <br>-Prevent shellcode
   <br>-Prevent spyware
+  <br>-Prevent cryptomalware
