@@ -27,3 +27,4 @@ TODO:
   <br>-Regularly clear browser cache/history
   <br>-Disable or configure autocomplete settings not to store sensitive info
   <br>-Web filter
+  <br>-Enable TPM hard disk encryption (via BitLocker (on windows)
