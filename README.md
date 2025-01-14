@@ -6,7 +6,7 @@ TODO:
   <br>-Prevent shellcode
   <br>-Prevent spyware
   <br>-Prevent cryptomalware
-  <br>-Fileless virus
+  <br>-Prevent Fileless virus
   <br>-Protect process images on persistent storage
   <br>-Deny new persistence processes
   <br>-Prevent script and macro viruses ("live off the land")- the malware uses the programming features available in local scripting <br>engines for the OS and/or browser, such as PowerShell, Windows Management Instrumentation (WMI), JavaScript, Microsoft Office documents with Visual Basic for Applications (VBA) code enabled, or PDF documents with JavaScript enabled.
